@@ -1,9 +1,11 @@
-# AI-Whisper-
+# 人工智慧期末報告
+10928042 陳芊瑜 / 10928044丁郁燕
+# AI-Whisper-語音辨識
 AI-Whisper語音辨識，是一種自動語音辨識模型，以30秒為分割的語音檔，可實現語音辨識、多語言轉錄，或是語音翻譯等。
-# 目錄:
+# 目錄
 1. 使用工具
 2. 操作過程
-3. 程式碼項目
+3. 結論
 4. 參考資料
 # 使用工具
 1. Google Colabratory
@@ -30,3 +32,8 @@ AI-Whisper語音辨識，是一種自動語音辨識模型，以30秒為分割�
 ![image](https://github.com/Qianyu0930/AI-Whisper-/assets/131600128/724eb0f4-a3d5-4b1c-b758-875e9a883049)
 
 7. 完成語音辨識!
+
+# 結論
+
+# 參考資料
+https://github.com/openai/whisper
